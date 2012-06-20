@@ -1,0 +1,1 @@
+Bu sayfaya erisim yetkiniz yok !! Olimcak isler bunlar buyrun burdan --> {$panelLink}
