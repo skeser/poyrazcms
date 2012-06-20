@@ -27,7 +27,7 @@ User / Pass     : demo/demo
 --Download
 --------------------------------------------------
 Dowload    :  http://www.sevketkeser.net/poyraz-cms/
-GitHub     :  https://github.com/skeser/pcms
+GitHub     :  https://github.com/skeser/poyrazcms
 
 ++Yaptiklari
 --------------------------------------------------
