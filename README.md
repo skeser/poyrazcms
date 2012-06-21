@@ -1,5 +1,5 @@
 Poyraz CMS (pcms) Poyraz Content Management System
-Poyraz CMS - Codeigniter - Smarty - JQuery
+Poyraz CMS - Codeigniter - Smarty - JQuery - Bootstrap
 ==================================================
 
 Nedir ?
